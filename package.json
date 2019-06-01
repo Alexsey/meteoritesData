@@ -1,0 +1,11 @@
+{
+  "name": "meteorites-data",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "promise.allsettled": "^1.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
